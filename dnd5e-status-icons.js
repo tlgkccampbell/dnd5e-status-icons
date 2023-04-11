@@ -225,6 +225,10 @@ const SimpleStatusIcons = (() => {
             'label': "Slayer's Prey",
             'icon': "modules/dnd5e-status-icons/Conditions/Slayer's Prey.png"
         }, {
+            'id': "slowed",
+            'label': "Slowed",
+            'icon': "modules/dnd5e-status-icons/Conditions/Slowed.png"
+        }, {
             'id': 'spirit guardians',
             'label': 'Spirit Guardians',
             'icon': 'modules/dnd5e-status-icons/Conditions/Spirit Guardians.png'
