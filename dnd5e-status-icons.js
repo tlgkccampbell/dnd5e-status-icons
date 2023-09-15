@@ -129,6 +129,10 @@ const SimpleStatusIcons = (() => {
             'label': "Hexblade's Curse",
             'icon': "modules/dnd5e-status-icons/Conditions/Hexblade's Curse.png"
         }, {
+            'id': 'hidden',
+            'label': 'Hidden',
+            'icon': 'modules/dnd5e-status-icons/Conditions/Hidden.png'
+        }, {
             'id': 'highlighted',
             'label': 'Highlighted',
             'icon': 'modules/dnd5e-status-icons/Conditions/Highlighted.png'
@@ -252,6 +256,10 @@ const SimpleStatusIcons = (() => {
             'id': 'truesight',
             'label': 'Truesight',
             'icon': 'modules/dnd5e-status-icons/Conditions/Truesight.png'
+        }, {
+            'id': 'turned',
+            'label': 'Turned',
+            'icon': 'modules/dnd5e-status-icons/Conditions/Turned.png'
         }, {
             'id': 'unconcious',
             'label': 'Unconcious',
