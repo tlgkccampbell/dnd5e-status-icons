@@ -17,11 +17,11 @@
     ],
     "bugs": "https://github.com/tlgkccampbell/dnd5e-status-icons/issues",
      "compatibility": {
-        "minimum": "10.270",
-        "verified": "10.291"
+        "minimum": "12.331",
+        "verified": "12.331"
     },
     "description": "Status icons for 5e-specific conditions. Icons created by u/JinxShadow on Reddit  (https://drive.google.com/drive/folders/1p8PTqBHkgSrKVqqOyI2_kFcPmbgLcX72)",
-    "download": "https://github.com/tlgkccampbell/dnd5e-status-icons/archive/refs/tags/1.0.6505.zip",
+    "download": "https://github.com/tlgkccampbell/dnd5e-status-icons/archive/refs/tags/1.0.6506.zip",
     "manifest": "https://raw.githubusercontent.com/tlgkccampbell/dnd5e-status-icons/main/module.json",
     "name": "dnd5e-status-icons",
     "readme": "https://github.com/tlgkccampbell/dnd5e-status-icons/blob/main/README.md",
@@ -35,8 +35,8 @@
                 "type": "system",
 				"manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
 				"compatibility": {
-					"minimum": "2.0.1",
-					"verified": "2.1.5"
+					"minimum": "3.3.1",
+					"verified": "3.3.1"
 				}
             }
         ]
@@ -44,5 +44,5 @@
     "system": "dnd5e",
     "title": "DnD5e Status Icons (Revised)",
     "url": "https://github.com/tlgkccampbell/dnd5e-status-icons",
-    "version": "1.0.6505"
+    "version": "1.0.6506"
 }
